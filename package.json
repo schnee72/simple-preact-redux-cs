@@ -2,7 +2,11 @@
   "name": "simple-preact-reudux",
   "description": "Minimal example using preact, redux and preact-redux.",
   "version": "0.0.16",
-  "dependencies": {},
+  "dependencies": {
+    "preact": "8.4.2",
+    "preact-redux": "2.0.3",
+    "redux": "4.0.1"
+  },
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
