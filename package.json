@@ -3,7 +3,7 @@
   "description": "Minimal example using preact, redux and preact-redux.",
   "version": "0.0.16",
   "dependencies": {
-    "preact": "8.4.2",
+    "preact": "10.4.7",
     "preact-redux": "2.0.3",
     "redux": "4.0.1"
   },
